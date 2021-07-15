@@ -1,4 +1,4 @@
-## R programming week3 Assignment
+## R programming week3 assignment
 
 ## the makeCacheMatrix func is a parent function
 ## the <- works on the current level
